@@ -4,6 +4,8 @@
 
 Este projeto apresenta uma visão prática do ambiente Azure, utilizando uma conta gratuita de estudante para criação e gerenciamento de recursos. O foco principal é a configuração do Azure Data Factory e a preparação do ambiente para monitoramento do uso e dos custos dos recursos implantados.
 
+![Azure](https://github.com/Rafae1040/recursos-azure/blob/main/Azure.png)
+
 ## Objetivos 🎯
 
 ✅ Criar e estruturar assinaturas no Azure.
